@@ -10,3 +10,19 @@
     text-align: center;
   }
   
+
+  .Fizz{
+    background-color: brown;
+  }
+
+  .Buzz{
+    background-color: blueviolet;
+  }
+
+  .FizzBuzz{
+    background-color: darkgoldenrod;
+  }
+
+  .bg-number{
+    background-color: darkcyan;
+  }
